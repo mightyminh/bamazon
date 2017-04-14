@@ -1,7 +1,7 @@
 # Greetings Friends!
 
 
-## Welcome to Mighty Minh's Bamazon Shop. We sell specific catered to the owner's interest. 
+## Welcome to Mighty Minh's Bamazon Shop. We sell specific items catered to Pokémon and Hello Kitty. Take a look!
 
 1) First download the package.json in the terminal. 
 
